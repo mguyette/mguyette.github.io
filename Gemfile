@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 gemspec
-gem "jekyll", "~> 3.5"
-gem "minimal-mistakes-jekyll"
-gem "jekyll-include-cache"
+
+gem "jekyll"
+
+group :jekyll_plugins do
+  gem "minimal-mistakes-jekyll"
+  gem "jekyll-include-cache"
+end
