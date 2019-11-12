@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Margaret Guyette"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/BioPhoto.png"
   bio              : "Data Science Portfolio"
   location         : "Florida"
   email            :
