@@ -118,7 +118,7 @@ author:
       url: mailto:margaret.guyette@gmail.com
     - label: "LinkedIn"
       icon: "fas fa fa-linkedin"
-      # url: "https://www.linkedin.com/in/margaret-guyette/"
+      url: "https://www.linkedin.com/in/margaret-guyette/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
