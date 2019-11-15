@@ -7,4 +7,4 @@ header:
 
 I have worked extensively to customize the St. Johns River Water Management District's implementation of Aquatic Informatics products AQUARIUS Time-Series and WebPortal.  These projects illustrate some of these customizations and may be of use to others in their AQUARIUS implementations.
 
-<a href="/Aquarius/FixCycleTimes.html">Data Wrangling: Preparing HydroCycle-PO4 Data for AQUARIUS Time-Series<a>
+<a href="https://mguyette.github.io/Aquarius_Cycle/">Data Wrangling: Preparing HydroCycle-PO4 Data for AQUARIUS Time-Series<a>
