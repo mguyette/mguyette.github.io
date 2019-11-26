@@ -15,3 +15,6 @@ I have worked extensively to customize the St. Johns River Water Management Dist
 
 ### Data Visualization
 <a href="https://mguyette.github.io/Aquarius_StatusDashboards/">Creating AQUARIUS WebPortal Dashboards to show Water Quality Station Status
+
+### Time Series Repair
+<a href="https://mguyette.github.io/Aquarius_OverwriteAppendPrep/">Creating JSON object for AQUARIUS Acquisition API overwriteappend
