@@ -4,6 +4,10 @@ main:
     url: /about/
   - title: "AQUARIUS"
     url: /Aquarius/
+  - title: "Data Cleaning"
+    url: /DataCleaning/
+  - title: "Data Vizualization"
+    url: /DataViz/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
