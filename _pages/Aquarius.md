@@ -13,7 +13,7 @@ I have worked extensively to customize the St. Johns River Water Management Dist
 ### Data Processing
 <a href="https://mguyette.github.io/Aquarius_Drift_Corrections/">Preparing Drift Correction End Points for USGS Multi-Point Corrections in AQUARIUS Time-Series<a>
 
-### Data Visualization
+### Dashboards
 <a href="https://mguyette.github.io/Aquarius_StatusDashboards/">Creating AQUARIUS WebPortal Dashboards to show Water Quality Station Status
 
 ### Time Series Repair
