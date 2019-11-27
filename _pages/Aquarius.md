@@ -8,7 +8,7 @@ header:
 I have worked extensively to customize the St. Johns River Water Management District's implementation of [Aquatic Informatics](https://aquaticinformatics.com/products/aquarius/) products AQUARIUS Time-Series and WebPortal.  These projects illustrate some of these customizations and may be of use to others in their AQUARIUS implementations.
 
 ### Data Wrangling
-[Preparing HydroCycle-PO4 Data for AQUARIUS Time-Series](https://mguyette.github.io/Aquarius_Cycle/) <span style="background-color: royalblue; text-color: white; padding: 4px;" box-sizing=border-box>R</span>\
+[Preparing HydroCycle-PO4 Data for AQUARIUS Time-Series](https://mguyette.github.io/Aquarius_Cycle/) [R](){: .btn .btn--info} <span style="background-color: royalblue; text-color: white; padding: 4px;" box-sizing=border-box>R</span>\
 We deploy instruments to record phosphate data, and the telemetry files must be modified before they can be uploaded into AQUARIUS Time-Series.  This project walks through the steps I took to set up this workflow.
 
 ### Data Processing
