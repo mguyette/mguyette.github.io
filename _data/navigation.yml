@@ -6,7 +6,7 @@ main:
     url: /Aquarius/
   - title: "Data Cleaning"
     url: /DataCleaning/
-  - title: "Data Vizualization"
+  - title: "Data Visualization"
     url: /DataViz/
   - title: "Languages"
     url: /Languages/
