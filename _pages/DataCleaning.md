@@ -9,5 +9,5 @@ Throughout my career, as a graduate student, an Environmental Scientist, a Water
 
 ### Unstructured Data
 
-[Extracting the period of record from an unstructured Hydstra export](https://mguyette.github.io/Hydstra_HYREPSummary) <span style="background-color: royalblue; text-color: white; padding: 4px;" box-sizing=border-box>R</span><br>
+[Extracting the period of record from an unstructured Hydstra export](https://mguyette.github.io/Hydstra_HYREPSummary) [R](/Languages#r){: .btn .btn--info}  
 I was summarizing metadata on water sampling stations across the St. Johns River Water Management District, and I needed an efficient way to find the period of record for hydrologic sampling stations.  This project works with a report export from the program Hydstra.  

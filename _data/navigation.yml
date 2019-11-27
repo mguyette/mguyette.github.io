@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  #- title: "About"
+  #  url: /about/
   - title: "AQUARIUS"
     url: /Aquarius/
   - title: "Data Cleaning"
     url: /DataCleaning/
   - title: "Data Vizualization"
     url: /DataViz/
+  - title: "Languages"
+    url: /Languages/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
