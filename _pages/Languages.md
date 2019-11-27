@@ -2,7 +2,7 @@
 title: "Languages"
 permalink: /Languages/
 header:
-  image: "/images/pelican.jpg"
+  image: "/images/bison.jpg"
 ---
 
 
