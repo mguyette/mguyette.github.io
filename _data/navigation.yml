@@ -8,6 +8,8 @@ main:
     url: /DataCleaning/
   - title: "Data Visualization"
     url: /DataViz/
+  - title: "Data Analysis"
+    url: /DataAnalysis/
   - title: "Languages"
     url: /Languages/
   # - title: "About"
