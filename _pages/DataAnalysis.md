@@ -1,6 +1,6 @@
 ---
-title: "AQUARIUS"
-permalink: /Aquarius/
+title: "Data Analysis"
+permalink: /DataAnalysis/
 header:
   image: "/images/LotusFlower.jpg"
 ---
