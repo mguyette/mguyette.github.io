@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_filter: 0.25
   overlay_image: /images/washington_coast.jpg
-excerpt: "Data science portfolio"  
+title: "Data science portfolio"  
 intro:
   - excerpt: 'I have always been a numbers person.  In recent years, this propensity has led me to exploring many aspects of data science.  This started with learning R when I was working on my doctorate, and my skillset has expanded to include many other tools.
 
