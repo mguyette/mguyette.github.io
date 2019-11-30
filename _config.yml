@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Margaret Guyette"
   avatar           : "/images/BioPhoto.png"
-  bio              : "Data Science Portfolio"
+  bio              : #
   location         : "Florida"
   email            :
   links:
