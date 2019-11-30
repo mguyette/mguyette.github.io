@@ -4,8 +4,8 @@ main:
   #  url: /about/
   - title: "AQUARIUS"
     url: /Aquarius/
-  - title: "Data Cleaning"
-    url: /DataCleaning/
+  - title: "Data Preparation"
+    url: /DataPreparation/
   - title: "Data Visualization"
     url: /DataViz/
   - title: "Data Analysis"
