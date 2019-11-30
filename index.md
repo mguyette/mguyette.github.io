@@ -5,7 +5,7 @@ header:
   overlay_filter: 0.25
   overlay_image: /images/washington_coast.jpg
 title: "Data science portfolio"  
-
+classes: wide
 
 ---
 
