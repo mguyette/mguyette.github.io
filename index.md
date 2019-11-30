@@ -14,4 +14,4 @@ I have always been a numbers person.  In recent years, this propensity has led m
 
 I am a Technical Program Manager with the St. Johns River Water Management District in Florida.  I am responsible for managing the Water Quality Monitoring program for the District, from network design and data collection through quality assurance and communication.<br><br>
 
-I received my PhD in Wildlife Ecology from the University of Main and my AB and MS in Ecology and Earth Sciences form Dartmouth College.
+I received my PhD in Wildlife Ecology from the University of Maine and my AB and MS in Ecology and Earth Sciences form Dartmouth College.
