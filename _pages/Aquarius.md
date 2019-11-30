@@ -3,6 +3,7 @@ title: "AQUARIUS"
 permalink: /Aquarius/
 header:
   image: "/images/LotusFlower.jpg"
+classes: wide
 ---
 
 I have worked extensively to customize the St. Johns River Water Management District's implementation of [Aquatic Informatics](https://aquaticinformatics.com/products/aquarius/) products AQUARIUS Time-Series and WebPortal.  These projects illustrate some of these customizations and may be of use to others in their AQUARIUS implementations.

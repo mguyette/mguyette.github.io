@@ -3,7 +3,7 @@ layout: single
 permalink: /
 header:
   overlay_filter: 0.25
-  overlay_image: /images/washington_coast.jpg
+  overlay_image: /images/tetons.jpg
 title: "Data science portfolio"  
 classes: wide
 

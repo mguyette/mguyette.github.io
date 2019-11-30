@@ -3,6 +3,7 @@ title: "Data Analysis"
 permalink: /DataAnalysis/
 header:
   image: "/images/LotusFlower.jpg"
+classes: wide
 ---
 
 

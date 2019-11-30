@@ -3,6 +3,7 @@ title: "Languages"
 permalink: /Languages/
 header:
   image: "/images/bison.jpg"
+classes: wide
 ---
 
 
