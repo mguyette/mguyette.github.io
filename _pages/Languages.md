@@ -11,8 +11,8 @@ classes: wide
 
 AQUARIUS: [Creating JSON objects for AQUARIUS Acquisition API overwriteappend](https://mguyette.github.io/Aquarius_OverwriteAppendPrep/)
 
-AQUARIUS: [Preparing Drift Correction End Points for USGS Multi-Point Corrections in AQUARIUS Time-Series](https://mguyette.github.io/Aquarius_Drift_Corrections/)
-
+<!--AQUARIUS: [Preparing Drift Correction End Points for USGS Multi-Point Corrections in AQUARIUS Time-Series](https://mguyette.github.io/Aquarius_Drift_Corrections/)
+-->
 AQUARIUS: [Preparing HydroCycle-PO4 Data for AQUARIUS Time-Series](https://mguyette.github.io/Aquarius_Cycle/)
 
 Data Preparation: [Retrieving USGS gauge data from NWIS](https://mguyette.github.io/QueryUSGS)
