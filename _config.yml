@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Margaret Guyette"
 title_separator          : "-"
-subtitle                 : "Data Science Portfolio"
+subtitle                 : "Portfolio"
 name                     : "Margaret Guyette"
 description              : #
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
